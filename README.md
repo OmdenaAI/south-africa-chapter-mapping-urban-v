@@ -2,7 +2,8 @@
 Use this Repository as a template for creating Local Chapter Repositories
 
 
-# [Chapter Challenge Name]
+# [South African Chapter] Mapping Urban Vulnerability areas (Crimes, Disasters, etc.)
+ using Open Source Data
 
 
 ## Contribution Guidelines
