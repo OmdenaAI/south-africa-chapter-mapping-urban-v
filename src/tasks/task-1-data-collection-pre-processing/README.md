@@ -1,5 +1,5 @@
 # task-1-data-collection-pre-processing
-2Tam Lead - Kevin Medri
+**Team Lead** - Kevin Medri
 ## Data Collection
 ### Images
 Images collected by:
