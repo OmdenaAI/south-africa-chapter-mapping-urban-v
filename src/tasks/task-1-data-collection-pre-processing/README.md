@@ -10,8 +10,8 @@ Images collected by:
 * Swati Kashyap
 * Rajeswari Ramkumar  
   
-  ### Statistical
-  Statistical data collected by:
-  * Kevin Medri
-  * Biswajit Mondal
-  * Ntandoyenkosi Matshisela
+### Statistical
+Statistical data collected by:
+* Kevin Medri
+* Biswajit Mondal
+* Ntandoyenkosi Matshisela
