@@ -5,6 +5,7 @@
 ### Images
 Images collected by:
 * Shenese Bhoola [Chapter Lead]
+* Nikhila Radhadevi
 * Chukwudi Okereafor
 * Biswajit Mondal
 * Muhammad Rizwan Ali
