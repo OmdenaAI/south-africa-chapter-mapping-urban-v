@@ -16,3 +16,12 @@ Statistical data collected by:
 * Kevin Medri
 * Biswajit Mondal
 * Ntandoyenkosi Matshisela
+* Chukwudi Okereafor
+* Hesham Saber
+
+## Images collected and added to four folders:
+
+1. DisasterImages
+2. Non_Disaster
+3. Crime_Images
+4. Non_crime_images
