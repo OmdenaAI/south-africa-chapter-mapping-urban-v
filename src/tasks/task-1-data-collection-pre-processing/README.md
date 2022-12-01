@@ -1,10 +1,10 @@
 # task-1-data-collection-pre-processing
 **Team Lead** - Kevin Medri
-***Team Lead*** - Biswajit Mondal
+**Team Lead** - Biswajit Mondal
 ## Data Collection
 ### Images
 Images collected by:
-* Shenese Bhoola [Chapter Leaad]
+* Shenese Bhoola [Chapter Lead]
 * Chukwudi Okereafor
 * Biswajit Mondal
 * Muhammad Rizwan Ali
