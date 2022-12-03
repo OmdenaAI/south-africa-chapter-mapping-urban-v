@@ -26,3 +26,4 @@ Statistical data collected by:
 2. Non_Disaster
 3. Crime_Images
 4. Non_crime_images
+https://open-meteo.com/en/docs/historical-weather-api
