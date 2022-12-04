@@ -15,10 +15,12 @@ Images collected by:
 * Biswajit Mondal
 * Muhammad Rizwan Ali
 * Swati Kashyap
+* Rajeswari Ramkumar
 
 ### Statistical
 
 Statistical data collected by:
+
 * Kevin Medri
 * Biswajit Mondal
 * Ntandoyenkosi Matshisela
@@ -33,6 +35,8 @@ Statistical data collected by:
 2. Non_Disaster
 3. Crime_Images
 4. Non_crime_images
+<<<<<<< HEAD
+=======
 
 ## Data collected and added to folders in Google Drive
 
@@ -42,4 +46,4 @@ Statistical data collected by:
 2. Set1_2016_17
 3. Set2_2018_19
 4. Set3_2020_21
-
+>>>>>>> 911e71140511497b1f56f6b8fa92f1f6b5e18144
