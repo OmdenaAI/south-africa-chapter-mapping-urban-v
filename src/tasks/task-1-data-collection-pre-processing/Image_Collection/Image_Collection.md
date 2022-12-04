@@ -20,7 +20,8 @@ These were checked, duplicates removed sorted into four folders.
 3. Crime_Images
 4. Non_crime_images
 
-We then created some scripts and scraped Google images for more imagery. These in turn were added to the folders.
+We then created some scripts and scraped Google images for more imagery. These in turn were added to the folders.  
+  
 [Scripts for scraping can be found here](https://drive.google.com/drive/folders/11vGlwGrnqIDJ2NZ9bziyTxZ4J3HIxS2M?usp=share_link)
 
 ## Image Preprocessing
