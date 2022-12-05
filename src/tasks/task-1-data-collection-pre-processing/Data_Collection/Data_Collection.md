@@ -45,4 +45,4 @@ This may come in time.
 Open source supplementary data was near on impossible to find. What was out there was either incomplete or to far back in history.  
 We eventually found some open source data for weather that includes, temp, rain, wind, precipitation, sunset and sunrise, snow, and reference evapotranspiration.  
 This was found late on and we are extracting this but again will take time.  
-South Africa has proven to be a difficult country f=to find open source data, however they are actively working on this, we feel as time goes on this will vastly improve.
+South Africa has proven to be a difficult country to find open source data, however they are actively working on this, we feel as time goes on this will vastly improve.
