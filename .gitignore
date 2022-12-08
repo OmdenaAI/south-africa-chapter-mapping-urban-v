@@ -1,5 +1,6 @@
 # Folders:
 src/data/to_merge/*
+src/data/geodata/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -130,3 +131,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+src/tasks/task2-3_Model/mahrukhw_model.ipynb
+src/tasks/task4-eda-visualization/geospatial/geospatial.ipynb
+src/tasks/task4-eda-visualization/geospatial/geostations.csv
+src/tasks/task4-eda-visualization/Statistical/weather.ipynb
