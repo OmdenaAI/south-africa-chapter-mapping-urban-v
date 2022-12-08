@@ -1,5 +1,6 @@
 # Folders:
 src/data/to_merge/*
+src/data/geodata/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
