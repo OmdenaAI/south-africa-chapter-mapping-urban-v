@@ -1,6 +1,5 @@
 # Folders:
 src/data/to_merge/*
-src/data/geodata/*
 src/data/csv/*
 
 # Byte-compiled / optimized / DLL files
